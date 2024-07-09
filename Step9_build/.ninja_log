@@ -1,0 +1,11 @@
+# ninja log v6
+2	245	1716246418608658954	MathFunctions/CMakeFiles/MakeTable.dir/MakeTable.cxx.o	ab8b995b7135932f
+245	280	1716246418848661944	MathFunctions/MakeTable	f62a34440b46758c
+280	283	1716246418888662442	MathFunctions/Table.h	e6be881630c1da79
+280	283	1716246418888662442	/home/daniel/Desenvolvimento/Cmake/cmake-3.29.2-tutorial-source/Step9_build/MathFunctions/Table.h	e6be881630c1da79
+283	388	1716246418888662442	MathFunctions/CMakeFiles/MathFunctions.dir/MathFunctions.cxx.o	5c9db930e26f3a90
+283	457	1716246418888662442	MathFunctions/CMakeFiles/SqrtLibrary.dir/mysqrt.cxx.o	32f54e3b87950756
+457	494	1716246419061997934	MathFunctions/libSqrtLibrary.a	6663b4d1af06c1a
+494	526	1716246419098665058	MathFunctions/libMathFunctions.a	879b94572d1ce2ef
+283	584	1716246418888662442	CMakeFiles/Tutorial.dir/tutorial.cxx.o	cfbc5daafbc190b5
+584	633	1716246419188666179	Tutorial	fc4f41f51e424191

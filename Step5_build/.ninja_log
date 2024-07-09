@@ -1,0 +1,7 @@
+# ninja log v6
+2	146	1715728996018730570	MathFunctions/CMakeFiles/MathFunctions.dir/MathFunctions.cxx.o	ed7c133bce5b769a
+2	309	1715728996018730570	MathFunctions/CMakeFiles/SqrtLibrary.dir/mysqrt.cxx.o	5bdbe7d1e90c64f
+347	385	1715728996365403440	MathFunctions/libMathFunctions.a	879b94572d1ce2ef
+2	327	1715728996022063962	CMakeFiles/Tutorial.dir/tutorial.cxx.o	a3cf5884570700d1
+309	347	1715728996328736117	MathFunctions/libSqrtLibrary.a	6663b4d1af06c1a
+385	448	1715728996402070763	Tutorial	fc4f41f51e424191

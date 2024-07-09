@@ -1,0 +1,21 @@
+# ninja log v6
+1	223	1715900906149079125	MathFunctions/CMakeFiles/MakeTable.dir/MakeTable.cxx.o	5b83c8f117a12020
+268	378	1715900906415748759	MathFunctions/CMakeFiles/MathFunctions.dir/MathFunctions.cxx.o	f5dcca1f6b615e39
+224	264	1715900906372414944	MathFunctions/MakeTable	f62a34440b46758c
+264	268	1715900906415748759	MathFunctions/Table.h	e8800867f797d4ed
+264	268	1715900906415748759	/home/daniel/Desenvolvimento/Cmake/cmake-3.29.2-tutorial-source/Step8_build/MathFunctions/Table.h	e8800867f797d4ed
+268	455	1715900906415748759	MathFunctions/CMakeFiles/SqrtLibrary.dir/mysqrt.cxx.o	4978da4f74e16285
+488	523	1715900906635751207	MathFunctions/libMathFunctions.a	879b94572d1ce2ef
+455	488	1715900906602417503	MathFunctions/libSqrtLibrary.a	6663b4d1af06c1a
+600	645	1715900906749085802	Tutorial	fc4f41f51e424191
+268	600	1715900906415748759	CMakeFiles/Tutorial.dir/tutorial.cxx.o	6d033d74b8f77cf5
+3	225	1715901005340182878	MathFunctions/CMakeFiles/MakeTable.dir/MakeTable.cxx.o	5b83c8f117a12020
+225	269	1715901005560185325	MathFunctions/MakeTable	f62a34440b46758c
+269	271	1715901005606852511	MathFunctions/Table.h	e8800867f797d4ed
+269	271	1715901005606852511	/home/daniel/Desenvolvimento/Cmake/cmake-3.29.2-tutorial-source/Step8_build/MathFunctions/Table.h	e8800867f797d4ed
+271	448	1715901005606852511	MathFunctions/CMakeFiles/SqrtLibrary.dir/mysqrt.cxx.o	4978da4f74e16285
+449	480	1715901005783521144	MathFunctions/libSqrtLibrary.a	6663b4d1af06c1a
+272	485	1715901005606852511	MathFunctions/CMakeFiles/MathFunctions.dir/MathFunctions.cxx.o	f5dcca1f6b615e39
+485	515	1715901005820188218	MathFunctions/libMathFunctions.a	879b94572d1ce2ef
+272	535	1715901005606852511	CMakeFiles/Tutorial.dir/tutorial.cxx.o	6d033d74b8f77cf5
+535	583	1715901005870188774	Tutorial	fc4f41f51e424191
